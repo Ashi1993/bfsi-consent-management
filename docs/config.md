@@ -14,7 +14,7 @@ A consent goes through a phased life cycle as follows:
 - **Consent revocation**: A customer can revoke the consent via consent management applications. It can either be done by the customer themselves or by a bank representative upon the customer’s request.
 - **Consent expiration**: When the consent validity period expires, the bank sets the consent status as expired. For the API consumer application to access the customer’s financial information again, the customer needs to regrant the consent.
 
-BFSI Consent Management Connector provides the capability to manage the above phase of the consent lifecycle. To learn more about BFSI Consent Management Connector, click [here]()
+BFSI Consent Management Connector provides the capability to manage the above phase of the consent lifecycle. To learn more about BFSI Consent Management Connector, click [here](consent-management.md)
 
 ## Setting up the BFSI Consent Management Connector
 
